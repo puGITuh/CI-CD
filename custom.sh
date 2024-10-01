@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hallo Github CI/CD"
+echo "Hallo Github CI/CD!"
